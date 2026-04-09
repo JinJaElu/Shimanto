@@ -1,0 +1,10 @@
+path: /mnt/f122449c-a097-439d-8819-15c5b1605fe9/datasets/kitti
+train: images/train
+val: images/val
+test: images/val
+nc: 4
+names:
+- vehicle
+- truck
+- pedestrian
+- cyclist
